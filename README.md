@@ -1,6 +1,6 @@
 My Project
 
-<p style="font-family: 'Arial'; font-size: 14px; text-align: center;">
+<p style="font-family: 'Arial'; font-size: 30px; text-align: center;">
 Google Search Front-End
 </p>
 
