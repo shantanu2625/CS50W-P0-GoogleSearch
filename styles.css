@@ -1,0 +1,15 @@
+body {
+    margin: 0px;
+    height: 100vh;
+    font: Arial, sans-serif;
+
+} 
+
+input {
+    font-size: 17px;
+    width: 300px;
+    padding-top: 13px;
+    padding-right: 13px;
+    padding-bottom: 13px;
+    padding-left: 13px;
+} 
